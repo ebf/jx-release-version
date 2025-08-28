@@ -1,6 +1,7 @@
 module github.com/jenkins-x-plugins/jx-release-version/v2
 
-go 1.22
+go 1.23.0
+
 toolchain go1.23.7
 
 require (
@@ -53,7 +54,7 @@ require (
 	github.com/sirupsen/logrus v1.9.0 // indirect
 	github.com/skeema/knownhosts v1.3.0 // indirect
 	github.com/spf13/cast v1.3.1 // indirect
-	github.com/ulikunitz/xz v0.5.9 // indirect
+	github.com/ulikunitz/xz v0.5.14 // indirect
 	github.com/xanzy/ssh-agent v0.3.3 // indirect
 	github.com/xi2/xz v0.0.0-20171230120015-48954b6210f8 // indirect
 	golang.org/x/crypto v0.35.0 // indirect
