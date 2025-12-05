@@ -1,6 +1,7 @@
 module github.com/jenkins-x-plugins/jx-release-version/v2
 
-go 1.22
+go 1.23.0
+
 toolchain go1.23.7
 
 require (
@@ -50,7 +51,7 @@ require (
 	github.com/rickar/props v0.0.0-20170718221555-0b06aeb2f037 // indirect
 	github.com/sergi/go-diff v1.3.2-0.20230802210424-5b0b94c5c0d3 // indirect
 	github.com/shopspring/decimal v1.2.0 // indirect
-	github.com/sirupsen/logrus v1.9.0 // indirect
+	github.com/sirupsen/logrus v1.9.1 // indirect
 	github.com/skeema/knownhosts v1.3.0 // indirect
 	github.com/spf13/cast v1.3.1 // indirect
 	github.com/ulikunitz/xz v0.5.9 // indirect
